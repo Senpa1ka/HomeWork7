@@ -1,7 +1,5 @@
 package homework7;
 
-import geekbrains.Сотрудник;
-
 public class Tarelka {
     protected String name;
     protected boolean ap;
@@ -21,12 +19,7 @@ else{
     ap = true;
 }
     }
-
-
-
-
-
-
+    
     }
 
 class cat extends Tarelka {
